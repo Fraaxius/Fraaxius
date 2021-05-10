@@ -8,6 +8,13 @@
 
 [![Fraaxius github stats](https://github-readme-stats.vercel.app/api?username=Fraaxius&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/Fraaxius)
 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/Fraaxius/count.svg" alt="vistor count" height="30" /></td>
+  </tr>
+</table>
+
 ## My stuff:
 [<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/Fraaxius)
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/fraaaanu.u)
