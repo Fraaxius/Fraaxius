@@ -1,8 +1,8 @@
 ### ¡Hi there! I'm Fraaxius <img src="https://github.com/iamshubhamg/iamshubhamg/blob/master/Assests/Hi.gif" width="29px">
 
-- I have 18 years old.
-- I live in Chile.
-- I love all technologies.
+- I have 19 years old.
+- I live on Chile.
+- I'm a dreamer.
 - Android fan but i would try iOS.
 - And more shit xD
 
